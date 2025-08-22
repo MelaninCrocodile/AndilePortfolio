@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Explorer</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="stars" id="stars"></div>
+    <div class="custom-cursor" id="cursor"></div>
+
+    <section class="page-section" id="home">
+    <div class="content">
+        <h3>Mission Control. This is Andile Ngwenya reporting for duty</h3>
+        <h1>Full-stack Developer</h1>
+        <p>Ready to explore my universe of Code, Systems and Innovations?</p>
+        <a href="#" class="cta-button">Begin Exploration</a>
+    </div>
+    </section>
+
+    <section class="page-section" id="about">
+    <div class="content">
+        <h1>ASTRONAUT BIO</h1>
+        <p>Greetings from the tech cosmos! I'm Andile Ngwenya, a developer and digital explorer navigating the galaxies of software development, web app development, Machine Learning and many more Computer Science and Informations missions'.</p>
+        <h4>I am an aspiring software developer with hands-on experience in Python, Django, SQL, C#, and full-stack development. I have a passion for building solutions that are both scalable and efficient, and I thrive in environments that require problem-solving and innovation. With a strong foundation in web development (HTML/CSS, WPF, MVC frameworks), I am eager to bring my skills to a dynamic team and grow my expertise further. I'm currently looking for junior developer roles, where I can contribute and continue learning in real-world projects.</h4>
+    </div>
+    </section>
+
+    <section class="page-section" id="contact">
+    <div class="content">
+        <h1>CONTACT</h1>
+        <p>Get in touch: andile@example.com</p>
+    </div>
+    </section>
+
+    <script src="js/script.js" defer></script>
+</body>
+</html>
